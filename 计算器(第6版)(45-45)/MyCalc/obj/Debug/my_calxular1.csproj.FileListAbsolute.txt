@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\蔡大帅\C#课件\第01章-计算器\2、程序\计算器(第6版)(45-45)\MyCalc\obj\Debug\MyCalc.exe
+C:\Users\Administrator\Desktop\蔡大帅\C#课件\第01章-计算器\2、程序\计算器(第6版)(45-45)\MyCalc\obj\Debug\MyCalc.pdb
+C:\Users\Administrator\Desktop\蔡大帅\C#课件\第01章-计算器\2、程序\计算器(第6版)(45-45)\MyCalc\bin\Debug\MyCalc.exe
+C:\Users\Administrator\Desktop\蔡大帅\C#课件\第01章-计算器\2、程序\计算器(第6版)(45-45)\MyCalc\bin\Debug\MyCalc.pdb
+C:\Users\Administrator\Desktop\蔡大帅\C#课件\第01章-计算器\2、程序\计算器(第6版)(45-45)\MyCalc\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\蔡大帅\C#课件\第01章-计算器\2、程序\计算器(第6版)(45-45)\MyCalc\obj\Debug\MyCalc.Form1.resources
+C:\Users\Administrator\Desktop\蔡大帅\C#课件\第01章-计算器\2、程序\计算器(第6版)(45-45)\MyCalc\obj\Debug\MyCalc.Properties.Resources.resources
+C:\Users\Administrator\Desktop\蔡大帅\C#课件\第01章-计算器\2、程序\计算器(第6版)(45-45)\MyCalc\obj\Debug\my_calxular1.csproj.GenerateResource.Cache
+E:\蔡大帅\C#课件\第01章-计算器\2、程序\计算器(第6版)(45-45)\MyCalc\obj\Debug\MyCalc.exe
+E:\蔡大帅\C#课件\第01章-计算器\2、程序\计算器(第6版)(45-45)\MyCalc\obj\Debug\MyCalc.pdb
